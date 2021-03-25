@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/stormbringer951/old-hyperion/master/old_hyperion.version",
+    "modName":"Old Hyperion",
+    "modThreadId":"",
+    "modVersion":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0
+    },
+}

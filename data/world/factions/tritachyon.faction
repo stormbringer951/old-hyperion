@@ -1,0 +1,14 @@
+{
+	"hullFrequency":{
+		"tags":{
+		},
+		"hulls":{
+			"old_hyperion":10,
+		},
+	},
+	"knownShips":{
+		"hulls":[
+			"old_hyperion",
+		],
+	},
+}

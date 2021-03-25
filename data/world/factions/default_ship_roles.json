@@ -1,0 +1,13 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmall":{
+		"old_hyperion_Attack":3,
+		"old_hyperion_Strike":3,
+	},
+    
+	# Old/unused below this line
+	"fastAttack":{
+		"old_hyperion_Attack":1,
+	},
+}

@@ -1,0 +1,12 @@
+{
+	"fleetCompositions":{
+		"start1":{
+			"ships":{
+				"old_hyperion_Attack":[1, 1],
+				"old_hyperion_Strike":[1, 1],
+			},
+		},
+    },
+}
+
+

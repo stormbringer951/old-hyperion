@@ -1,0 +1,8 @@
+{
+	"id":"old_hyperion",
+	"name":"Old Hyperion",
+	"author":"stormbringer951",
+	"version":"0.1.0",
+	"description":"Gib old Hyperion. sed -i 's/hyperion/theia/g",
+	"gameVersion":"0.9.5",
+}

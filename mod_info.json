@@ -2,7 +2,7 @@
 	"id":"old_hyperion",
 	"name":"Old Hyperion",
 	"author":"stormbringer951",
-	"version":"0.1.1",
+	"version":"0.2.0",
 	"description":"Gib old Hyperion. sed -i 's/hyperion/theia/g",
-	"gameVersion":"0.95a-RC8",
+	"gameVersion":"0.95a-RC10",
 }
